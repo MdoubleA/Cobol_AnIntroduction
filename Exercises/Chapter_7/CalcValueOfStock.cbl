@@ -32,8 +32,8 @@
        WORKING-STORAGE SECTION.
            01 AnInStockValue         PIC 9(10)V99.
            01 TotalInStockValue      PIC 9(10)V99    VALUE ZERO.
-           01 PrintAValue            PIC $(10).99.
-           01 PrintTotalValue        PIC $(10).99    VALUE ZERO.
+           01 PrintAValue            PIC $,$$$,$$$,$$$.99.
+           01 PrintTotalValue        PIC $,$$$,$$$,$$$.99    VALUE ZERO.
 
        PROCEDURE DIVISION.
        MAIN-PROCEDURE.
