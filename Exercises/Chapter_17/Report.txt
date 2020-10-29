@@ -1,52 +1,52 @@
    DEPARTMENT                PROFESSOR                COURSE LEVEL
    CE                        Anderson                 459
                                                       559
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Anderson      $48,371.60
 
 
    CE                        Clifton                  501
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Clifton        $4,965.00
 
 
    CE                        Dietz                    361
                                                       364
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Dietz        $115,603.40
 
 
    CE                        Dusicka                  501
                                                       506
                                                       506
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Dusicka       $10,923.00
 
 
    CE                        Figliozzi                501
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Figliozz         $993.00
 
 
    CE                        Fish                     474
                                                       501
                                                       574
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Fish          $40,924.10
 
 
    CE                        Gleason                  566
                                                       666
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Gleason        $7,944.00
 
 
    CE                        Jay                      482
                                                       582
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Jay           $19,521.60
 
 
    CE                        Johnson                  501
                                                       505
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Johnson          $993.00
 
 
    CE                        Khosravifa               341
@@ -54,7 +54,7 @@
                                                       501
                                                       503
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Khosravi      $45,475.50
 
 
    CE                        Kristof                  404
@@ -63,11 +63,11 @@
                                                       404
                                                       404
                                                       405
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Kristof        $1,671.95
 
 
    CE                        McLaughlin               111
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For McLaughl      $44,426.10
 
 
    CE                        Monsere                  315
@@ -75,18 +75,18 @@
                                                       414
                                                       514
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Monsere       $31,898.65
 
 
    CE                        Moug                     501
                                                       503
                                                       541
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Moug           $9,433.50
 
 
    CE                        Rad                      434
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Rad           $43,986.00
 
 
    CE                        Schumacher               423
@@ -94,12 +94,12 @@
                                                       523
                                                       524
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Schumach      $79,809.20
 
 
    CE                        Triska                   321
                                                       324
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Triska        $93,629.20
 
 
    CE                        Unnikrishn               410
@@ -107,13 +107,13 @@
                                                       510
                                                       603
                                                       610
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Unnikris      $90,597.20
 
 
    CE                        Wells                    405
                                                       503
                                                       573
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Wells         $25,283.90
 
 
                                                       DEPARTMENT CONTROL CHANGE
@@ -122,7 +122,7 @@
    CS                        Antoy                    410
                                                       510
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Antoy         $18,295.30
 
 
    CS                        Aryafar                  410
@@ -132,32 +132,32 @@
                                                       601
                                                       601
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Aryafar       $89,927.20
 
 
    CS                        Bulusu                   494
                                                       594
                                                       601
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Bulusu        $46,565.90
 
 
    CS                        Casamento                162
                                                       320
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Casament     $113,692.60
 
 
    CS                        Ely                      161
                                                       311
                                                       451
    CS                        Ely                      551
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Ely          $181,021.80
 
 
    CS                        Fant                     162
                                                       163
                                                       202
                                                       299
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Fant         $280,887.60
 
 
    CS                        Feng                     410
@@ -171,30 +171,30 @@
                                                       601
                                                       603
                                                       605
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Feng         $153,618.50
 
 
    CS                        Galbraith                161
                                                       162
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Galbrait      $32,483.60
 
 
    CS                        Harmon                   199
                                                       305
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Harmon        $33,916.70
 
 
    CS                        Harrison                 399
                                                       409
                                                       469
                                                       470
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Harrison      $63,772.95
 
 
    CS                        Irvin                    410
                                                       510
                                                       532
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Irvin         $99,766.60
 
 
    CS                        Jones                    404
@@ -202,7 +202,7 @@
    CS                        Jones                    503
                                                       509
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Jones          $8,641.75
 
 
    CS                        Karavanic                491
@@ -210,7 +210,7 @@
                                                       601
                                                       601
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Karavani      $52,719.60
 
 
    CS                        Li                       504
@@ -218,7 +218,7 @@
                                                       504
                                                       504
                                                       504
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Li             $3,475.50
 
 
    CS                        Liu                      601
@@ -226,27 +226,27 @@
                                                       601
                                                       601
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Liu           $16,881.00
 
 
    CS                        Maier                    603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Maier          $4,468.50
 
 
    CS                        Massey                   300
                                                       441
                                                       541
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Massey       $154,924.30
 
 
    CS                        Mocas                    250
                                                       350
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Mocas        $114,648.00
 
 
    CS                        Morrissey                201
                                                       333
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Morrisse     $122,291.20
 
 
    CS                        Paun                     410
@@ -255,7 +255,7 @@
                                                       510
                                                       565
                                                       565
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Paun          $90,461.30
 
 
    CS                        Rhodes                   445
@@ -263,32 +263,32 @@
                                                       545
                                                       545
                                                       581
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Rhodes        $96,674.80
 
 
    CS                        Roncken                  601
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Roncken        $1,986.00
 
 
    CS                        Singh                    251
                                                       601
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Singh         $54,036.50
 
 
    CS                        Song                     601
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Song           $5,958.00
 
 
    CS                        Teuscher                 503
                                                       601
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Teuscher       $2,482.50
 
 
    CS                        Tolmach                  558
                                                       601
                                                       601
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Tolmach       $38,727.00
 
 
    CS                        Tufte                    486
@@ -300,11 +300,11 @@
                                                       506
                                                       586
    CS                        Tufte                    588
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Tufte        $125,156.50
 
 
    CS                        Tymerski                 503
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Tymerski         $496.50
 
 
    CS                        Xie                      454
@@ -312,7 +312,7 @@
                                                       601
                                                       601
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Xie           $58,865.60
 
 
                                                       DEPARTMENT CONTROL CHANGE
@@ -321,11 +321,11 @@
    EAS                       Kristof                  211
                                                       211
                                                       211
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Kristof       $77,387.40
 
 
    EAS                       Meekisho                 407
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Meekisho      $11,703.65
 
 
                                                       DEPARTMENT CONTROL CHANGE
@@ -333,14 +333,14 @@
 
    ECE                       Acken                    503
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Acken          $4,468.50
 
 
    ECE                       Bass III                 411
                                                       503
                                                       504
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Bass III      $23,914.90
 
 
    ECE                       Bird                     501
@@ -348,17 +348,17 @@
                                                       501
                                                       601
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Bird          $15,391.50
 
 
    ECE                       Campbell                 321
                                                       421
                                                       521
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Campbell     $135,764.20
 
 
    ECE                       Chishti                  341
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Chishti       $66,878.00
 
 
    ECE                       Chrzanowsk               415
@@ -367,7 +367,7 @@
                                                       515
                                                       528
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Chrzanow      $52,711.90
 
 
    ECE                       Duncan                   404
@@ -375,13 +375,13 @@
                                                       404
                                                       404
                                                       404
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Duncan         $2,627.35
 
 
    ECE                       Faust                    411
                                                       485
                                                       585
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Faust        $112,830.30
 
 
    ECE                       Hall                     371
@@ -390,57 +390,57 @@
                                                       504
                                                       504
                                                       504
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Hall         $154,924.30
 
 
    ECE                       Hammerstro               603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Hammerst       $3,972.00
 
 
    ECE                       Holtzman                 171
                                                       424
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Holtzman      $56,846.30
 
 
    ECE                       Huang                    425
                                                       525
                                                       587
                                                       687
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Huang        $198,953.80
 
 
    ECE                       Kravitz                  361
                                                       508
                                                       571
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Kravitz      $112,578.20
 
 
    ECE                       La Rosa                  598
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For La Rosa        $7,944.00
 
 
    ECE                       Li                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Li             $2,979.00
 
 
    ECE                       Lipor                    503
                                                       505
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Lipor         $11,916.00
 
 
    ECE                       Martin                   315
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Martin        $73,565.80
 
 
    ECE                       Patwary                  540
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Patwary       $37,734.00
 
 
    ECE                       Pejcinovic               101
                                                       211
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Pejcinov      $71,974.60
 
 
    ECE                       Perkowski                478
@@ -451,18 +451,18 @@
                                                       601
    ECE                       Perkowski                601
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Perkowsk      $38,501.40
 
 
    ECE                       Schubert                 506
                                                       510
                                                       595
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Schubert      $46,174.50
 
 
    ECE                       Siderius                 501
                                                       601
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Siderius       $6,951.00
 
 
    ECE                       Song                     481
@@ -472,18 +472,18 @@
                                                       601
                                                       601
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Song         $108,929.20
 
 
    ECE                       Su                       221
                                                       317
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Su            $87,896.80
 
 
    ECE                       Teuscher                 503
                                                       510
                                                       610
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Teuscher      $15,391.50
 
 
    ECE                       Tymerski                 410
@@ -492,7 +492,7 @@
                                                       501
                                                       510
                                                       551
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Tymerski      $30,595.00
 
 
                                                       DEPARTMENT CONTROL CHANGE
@@ -500,29 +500,29 @@
 
    EE                        Bird                     432
    EE                        Bird                     532
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Bird          $34,717.40
 
 
    EE                        Greenwood                560
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Greenwoo      $21,846.00
 
 
    EE                        Lipor                    520
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Lipor         $25,818.00
 
 
    EE                        McNames                  510
                                                       522
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For McNames       $31,776.00
 
 
    EE                        Perez                    430
                                                       530
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Perez         $37,282.80
 
 
    EE                        Wang                     536
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Wang           $9,930.00
 
 
                                                       DEPARTMENT CONTROL CHANGE
@@ -530,21 +530,21 @@
 
    ENVE                      Johnson                  365
                                                       368
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Johnson       $10,987.10
 
 
                                                       DEPARTMENT CONTROL CHANGE
 
 
    ESM                       Gleason                  566
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Gleason       $33,762.00
 
 
                                                       DEPARTMENT CONTROL CHANGE
 
 
    ETM                       Ahn                      561
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Ahn           $19,860.00
 
 
    ETM                       Anderson                 504
@@ -554,11 +554,11 @@
                                                       604
                                                       604
                                                       640
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Anderson      $70,006.50
 
 
    ETM                       Busch                    544
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Busch         $17,874.00
 
 
    ETM                       Daim                     504
@@ -576,26 +576,26 @@
                                                       606
                                                       606
                                                       620
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Daim          $93,342.00
 
 
    ETM                       Dresselhau               347
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Dresselh      $32,483.60
 
 
    ETM                       Estep                    545
                                                       645
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Estep          $9,930.00
 
 
    ETM                       Jetter                   504
                                                       507
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Jetter        $21,349.50
 
 
    ETM                       Khormaei                 525
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Khormaei      $23,832.00
 
 
    ETM                       Weber                    356
@@ -605,7 +605,7 @@
                                                       522
                                                       603
                                                       606
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Weber         $53,133.20
 
 
                                                       DEPARTMENT CONTROL CHANGE
@@ -615,28 +615,28 @@
                                                       503
                                                       603
                                                       605
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Cal Sant     $135,659.10
 
 
    ME                        Collins                  421
                                                       521
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Collins       $21,470.00
 
 
    ME                        Eisenhauer               370
                                                       488
                                                       491
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Eisenhau     $235,028.40
 
 
    ME                        Etesami                  250
                                                       437
                                                       537
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Etesami       $64,060.50
 
 
    ME                        Gall                     603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Gall             $496.50
 
 
    ME                        Hunt                     456
@@ -645,17 +645,17 @@
                                                       503
                                                       556
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Hunt          $39,998.60
 
 
    ME                        Jiao                     410
    ME                        Jiao                     510
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Jiao          $37,583.60
 
 
    ME                        Lee                      427
                                                       527
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Lee           $52,140.20
 
 
    ME                        Meekisho                 120
@@ -663,50 +663,50 @@
                                                       404
                                                       404
                                                       501
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Meekisho      $51,132.70
 
 
    ME                        Mohler                   541
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Mohler        $15,888.00
 
 
    ME                        Qian                     410
                                                       510
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Qian          $79,289.60
 
 
    ME                        Recktenwal               120
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Recktenw      $20,779.95
 
 
    ME                        Snyder                   474
                                                       574
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Snyder        $26,976.80
 
 
    ME                        Tretheway                320
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Trethewa      $53,502.40
 
 
    ME                        Turcic                   452
                                                       552
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Turcic        $35,417.30
 
 
    ME                        Vu                       213
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Vu            $81,209.00
 
 
    ME                        Weislogel                501
    ME                        Weislogel                503
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Weisloge       $1,986.00
 
 
    ME                        Wern                     240
                                                       603
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Wern          $23,960.20
 
 
    ME                        Yi                       501
@@ -719,13 +719,13 @@
                                                       605
                                                       607
                                                       651
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Yi           $102,775.50
 
 
    ME                        Zareh                    313
                                                       455
                                                       555
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Zareh        $159,295.40
 
 
                                                       DEPARTMENT CONTROL CHANGE
@@ -734,11 +734,11 @@
    MSE                       Lee                      501
                                                       501
                                                       501
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Lee            $6,454.50
 
 
    MSE                       Yi                       501
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Yi               $496.50
 
 
                                                       DEPARTMENT CONTROL CHANGE
@@ -746,7 +746,7 @@
 
    PH                        La Rosa                  411
                                                       511
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For La Rosa       $10,584.60
 
 
                                                       DEPARTMENT CONTROL CHANGE
@@ -760,7 +760,7 @@
                                                       506
                                                       506
                                                       595
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Langford      $45,678.00
 
 
                                                       DEPARTMENT CONTROL CHANGE
@@ -768,7 +768,7 @@
 
    USP                       Dill                     414
                                                       514
-                                                      PROFESSOR CONTROL CHANGE
+                             Total Tuition For Dill           $1,728.35
                                                       DEPARTMENT CONTROL CHANGE
 
 

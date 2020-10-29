@@ -5,10 +5,10 @@
       *          department, professor, and grad/undergrad level.
       * Tectonics: cobc
       ******************************************************************
-       IDENTIFICATION DIVISION.
+       IDENTIFICATION DIVISION. *> -------------------------------------
        PROGRAM-ID. TuitionReport.
 
-       ENVIRONMENT DIVISION.
+       ENVIRONMENT DIVISION. *> ----------------------------------------
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
            SELECT CoursesFile
@@ -19,7 +19,7 @@
              ASSIGN TO "./Exercises/Chapter_17/Report.txt"
              ORGANIZATION IS LINE SEQUENTIAL.
 
-       DATA DIVISION.
+       DATA DIVISION. *> -----------------------------------------------
        FILE SECTION.
        FD CoursesFile.
        01 CourseFileRecord.
@@ -39,18 +39,19 @@
        01 FileStatus PIC 9 VALUE 0.
          88 EndOfFile VALUE 1.
 
-       01 FirstRead PIC 9 VALUE 1.
-
        *> For accumulating department total.
        01 PreviousSubject  PIC X(4)  VALUE SPACES.
        01 DepartmentAccumulator PIC 9(9) VALUE ZERO.
 
        *> For accumulating professor total.
        01 PreviousLastName PIC X(16) VALUE SPACES.
-       01 ProfessorAccumulator PIC 9(9) VALUE ZERO.
+       01 ProfessorAccumulator PIC 9(9)V99 VALUE ZERO.
 
        *> For converting Esch from ALPHANUMERIC to NUMERIC.
-       01 NumericEschField PIC 999.
+       01 NumericEschField PIC 9(9)V99 VALUE ZERO.
+
+       01 UnderGradCost     PIC 999V99   VALUE 238.85. *> 136
+       01 GradCost          PIC 999V99   VALUE 496.50. *> 32
 
        REPORT SECTION.
        RD TuitionReport
@@ -78,64 +79,61 @@
        01 ProfessorSummary TYPE IS CONTROL FOOTING LastName
          NEXT GROUP PLUS 2.
          02 LINE PLUS 1.
-           03 COLUMN 55 PIC X(25) VALUE "PROFESSOR CONTROL CHANGE".
+           03 COLUMN 30 PIC X(18)   VALUE "Total Tuition For ".
+           03 COLUMN 48 PIC X(18)   SOURCE LastName.
+           03 COLUMN 56 PIC $,$$$,$$$,$$$.99
+             SOURCE ProfessorAccumulator.
 
        01 Footer TYPE IS REPORT FOOTING.
          02 LINE IS PLUS 1.
            03 COLUMN 30 PIC X(20) VALUE "==== END REPORT ====".
 
-       PROCEDURE DIVISION.
+       PROCEDURE DIVISION. *> ------------------------------------------
        MAIN-PROCEDURE.
             OPEN INPUT CoursesFile.
             OPEN OUTPUT ReportFile.
 
               INITIATE TuitionReport.
-              *>PERFORM ProcessRecord.
               PERFORM ReadLine.
-              PERFORM GenerateReport UNTIL EndOfFile.
+              PERFORM UNTIL EndOfFile
+                PERFORM AddToAccumulator
+                GENERATE ReportLine
+                PERFORM SetAccumulatorOnControlBreak
+                PERFORM ReadLine
+              END-PERFORM.
               TERMINATE TuitionReport.
 
             CLOSE CoursesFile.
             CLOSE ReportFile.
-
-      *>       OPEN INPUT CoursesFile.
-      *>         PERFORM ProcessRecord UNTIL EndOfFile.
-      *>       CLOSE CoursesFile.
-
             STOP RUN.
 
-       GenerateReport.
-           GENERATE ReportLine.
-           PERFORM ReadLine.
+       AddToAccumulator.
+           IF LastName         EQUAL TO PreviousLastName
+           OR PreviousLastName EQUAL TO SPACES
+             MOVE LastName TO PreviousLastName
+             PERFORM CalcProfessorTuition
+           END-IF.
+
+       SetAccumulatorOnControlBreak.
+           IF  LastName         NOT EQUAL TO PreviousLastName
+           AND PreviousLastName NOT EQUAL TO SPACES
+             MOVE LastName TO PreviousLastName
+             MOVE 0 TO ProfessorAccumulator
+             PERFORM CalcProfessorTuition
+           END-IF.
+
+       CalcProfessorTuition.
+           MOVE Esch TO NumericEschField.
+           IF CourseNumber >= 500
+             MULTIPLY NumericEschField BY GradCost
+               GIVING NumericEschField
+           ELSE
+             MULTIPLY NumericEschField BY UnderGradCost
+               GIVING NumericEschField
+           END-IF.
+           ADD NumericEschField TO ProfessorAccumulator.
 
        ReadLine.
            READ CoursesFile AT END SET EndOfFile TO TRUE.
-           PERFORM ProcessRecord.
-
-           *>PERFORM ProcessRecord.
-
-       ProcessRecord.
-           IF CourseSubject NOT EQUAL TO PreviousSubject AND
-               FirstRead EQUAL TO 0 *> 0 as false like C.
-               DISPLAY "Control Change" END-IF.
-           MOVE CourseSubject TO PreviousSubject.
-           MOVE 0 TO FirstRead.
-           MOVE Esch TO NumericEschField.
-           ADD NumericEschField TO ProfessorAccumulator.
-
-
-      *>  ProcessRecord.
-      *>      READ CoursesFile AT END MOVE 1 TO FileStatus.
-      *>      IF FirstRead EQUAL TO 1
-      *>      *>DISPLAY "CONTROL break ", CourseSubject.
-      *>      IF FileStatus NOT EQUAL 1
-      *>        *> Determine if control break.
-      *>        IF PreviousSubject NOT EQUAL TO CourseSubject AND
-      *>            FirstRead NOT EQUAL TO 1
-      *>            DISPLAY "CONTROL break ", CourseSubject
-      *>      END-IF
-
-      *>      MOVE CourseSubject TO PreviousSubject.
-      *>      MOVE 0 TO FirstRead.
 
        END PROGRAM TuitionReport.
