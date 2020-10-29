@@ -1,0 +1,802 @@
+   DEPARTMENT                PROFESSOR                COURSE LEVEL
+   CE                        Anderson                 459
+                                                      559
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CE                        Clifton                  501
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CE                        Dietz                    361
+                                                      364
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CE                        Dusicka                  501
+                                                      506
+                                                      506
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CE                        Figliozzi                501
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CE                        Fish                     474
+                                                      501
+                                                      574
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CE                        Gleason                  566
+                                                      666
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CE                        Jay                      482
+                                                      582
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CE                        Johnson                  501
+                                                      505
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CE                        Khosravifa               341
+                                                      345
+                                                      501
+                                                      503
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CE                        Kristof                  404
+                                                      404
+                                                      404
+                                                      404
+                                                      404
+                                                      405
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CE                        McLaughlin               111
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CE                        Monsere                  315
+                                                      401
+                                                      414
+                                                      514
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CE                        Moug                     501
+                                                      503
+                                                      541
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CE                        Rad                      434
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CE                        Schumacher               423
+                                                      501
+                                                      523
+                                                      524
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CE                        Triska                   321
+                                                      324
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CE                        Unnikrishn               410
+                                                      503
+                                                      510
+                                                      603
+                                                      610
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CE                        Wells                    405
+                                                      503
+                                                      573
+                                                      PROFESSOR CONTROL CHANGE
+
+
+                                                      DEPARTMENT CONTROL CHANGE
+
+
+   CS                        Antoy                    410
+                                                      510
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Aryafar                  410
+                                                      410
+                                                      510
+                                                      510
+                                                      601
+                                                      601
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Bulusu                   494
+                                                      594
+                                                      601
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Casamento                162
+                                                      320
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Ely                      161
+                                                      311
+                                                      451
+   CS                        Ely                      551
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Fant                     162
+                                                      163
+                                                      202
+                                                      299
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Feng                     410
+                                                      410
+                                                      430
+                                                      510
+                                                      510
+                                                      530
+                                                      601
+                                                      601
+                                                      601
+                                                      603
+                                                      605
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Galbraith                161
+                                                      162
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Harmon                   199
+                                                      305
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Harrison                 399
+                                                      409
+                                                      469
+                                                      470
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Irvin                    410
+                                                      510
+                                                      532
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Jones                    404
+                                                      406
+   CS                        Jones                    503
+                                                      509
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Karavanic                491
+                                                      591
+                                                      601
+                                                      601
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Li                       504
+                                                      504
+                                                      504
+                                                      504
+                                                      504
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Liu                      601
+                                                      601
+                                                      601
+                                                      601
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Maier                    603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Massey                   300
+                                                      441
+                                                      541
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Mocas                    250
+                                                      350
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Morrissey                201
+                                                      333
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Paun                     410
+                                                      465
+                                                      465
+                                                      510
+                                                      565
+                                                      565
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Rhodes                   445
+                                                      445
+                                                      545
+                                                      545
+                                                      581
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Roncken                  601
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Singh                    251
+                                                      601
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Song                     601
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Teuscher                 503
+                                                      601
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Tolmach                  558
+                                                      601
+                                                      601
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Tufte                    486
+                                                      488
+                                                      506
+                                                      506
+                                                      506
+                                                      506
+                                                      506
+                                                      586
+   CS                        Tufte                    588
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Tymerski                 503
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   CS                        Xie                      454
+                                                      554
+                                                      601
+                                                      601
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+                                                      DEPARTMENT CONTROL CHANGE
+
+
+   EAS                       Kristof                  211
+                                                      211
+                                                      211
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   EAS                       Meekisho                 407
+                                                      PROFESSOR CONTROL CHANGE
+
+
+                                                      DEPARTMENT CONTROL CHANGE
+
+
+   ECE                       Acken                    503
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Bass III                 411
+                                                      503
+                                                      504
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Bird                     501
+                                                      501
+                                                      501
+                                                      601
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Campbell                 321
+                                                      421
+                                                      521
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Chishti                  341
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Chrzanowsk               415
+                                                      428
+                                                      501
+                                                      515
+                                                      528
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Duncan                   404
+                                                      404
+                                                      404
+                                                      404
+                                                      404
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Faust                    411
+                                                      485
+                                                      585
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Hall                     371
+                                                      504
+                                                      504
+                                                      504
+                                                      504
+                                                      504
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Hammerstro               603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Holtzman                 171
+                                                      424
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Huang                    425
+                                                      525
+                                                      587
+                                                      687
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Kravitz                  361
+                                                      508
+                                                      571
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       La Rosa                  598
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Li                       603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Lipor                    503
+                                                      505
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Martin                   315
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Patwary                  540
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Pejcinovic               101
+                                                      211
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Perkowski                478
+                                                      503
+                                                      578
+                                                      601
+                                                      601
+                                                      601
+   ECE                       Perkowski                601
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Schubert                 506
+                                                      510
+                                                      595
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Siderius                 501
+                                                      601
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Song                     481
+                                                      501
+                                                      527
+                                                      581
+                                                      601
+                                                      601
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Su                       221
+                                                      317
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Teuscher                 503
+                                                      510
+                                                      610
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ECE                       Tymerski                 410
+                                                      451
+                                                      501
+                                                      501
+                                                      510
+                                                      551
+                                                      PROFESSOR CONTROL CHANGE
+
+
+                                                      DEPARTMENT CONTROL CHANGE
+
+
+   EE                        Bird                     432
+   EE                        Bird                     532
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   EE                        Greenwood                560
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   EE                        Lipor                    520
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   EE                        McNames                  510
+                                                      522
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   EE                        Perez                    430
+                                                      530
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   EE                        Wang                     536
+                                                      PROFESSOR CONTROL CHANGE
+
+
+                                                      DEPARTMENT CONTROL CHANGE
+
+
+   ENVE                      Johnson                  365
+                                                      368
+                                                      PROFESSOR CONTROL CHANGE
+
+
+                                                      DEPARTMENT CONTROL CHANGE
+
+
+   ESM                       Gleason                  566
+                                                      PROFESSOR CONTROL CHANGE
+
+
+                                                      DEPARTMENT CONTROL CHANGE
+
+
+   ETM                       Ahn                      561
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ETM                       Anderson                 504
+                                                      504
+   ETM                       Anderson                 540
+                                                      603
+                                                      604
+                                                      604
+                                                      640
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ETM                       Busch                    544
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ETM                       Daim                     504
+                                                      504
+                                                      506
+                                                      506
+                                                      506
+                                                      506
+                                                      520
+                                                      531
+                                                      603
+                                                      604
+                                                      604
+                                                      606
+                                                      606
+                                                      606
+                                                      620
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ETM                       Dresselhau               347
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ETM                       Estep                    545
+                                                      645
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ETM                       Jetter                   504
+                                                      507
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ETM                       Khormaei                 525
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ETM                       Weber                    356
+   ETM                       Weber                    504
+                                                      504
+                                                      504
+                                                      522
+                                                      603
+                                                      606
+                                                      PROFESSOR CONTROL CHANGE
+
+
+                                                      DEPARTMENT CONTROL CHANGE
+
+
+   ME                        Cal Santia               321
+                                                      503
+                                                      603
+                                                      605
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ME                        Collins                  421
+                                                      521
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ME                        Eisenhauer               370
+                                                      488
+                                                      491
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ME                        Etesami                  250
+                                                      437
+                                                      537
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ME                        Gall                     603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ME                        Hunt                     456
+                                                      501
+                                                      501
+                                                      503
+                                                      556
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ME                        Jiao                     410
+   ME                        Jiao                     510
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ME                        Lee                      427
+                                                      527
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ME                        Meekisho                 120
+                                                      350
+                                                      404
+                                                      404
+                                                      501
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ME                        Mohler                   541
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ME                        Qian                     410
+                                                      510
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ME                        Recktenwal               120
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ME                        Snyder                   474
+                                                      574
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ME                        Tretheway                320
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ME                        Turcic                   452
+                                                      552
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ME                        Vu                       213
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ME                        Weislogel                501
+   ME                        Weislogel                503
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ME                        Wern                     240
+                                                      603
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ME                        Yi                       501
+                                                      501
+                                                      503
+                                                      507
+                                                      530
+                                                      551
+                                                      603
+                                                      605
+                                                      607
+                                                      651
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   ME                        Zareh                    313
+                                                      455
+                                                      555
+                                                      PROFESSOR CONTROL CHANGE
+
+
+                                                      DEPARTMENT CONTROL CHANGE
+
+
+   MSE                       Lee                      501
+                                                      501
+                                                      501
+                                                      PROFESSOR CONTROL CHANGE
+
+
+   MSE                       Yi                       501
+                                                      PROFESSOR CONTROL CHANGE
+
+
+                                                      DEPARTMENT CONTROL CHANGE
+
+
+   PH                        La Rosa                  411
+                                                      511
+                                                      PROFESSOR CONTROL CHANGE
+
+
+                                                      DEPARTMENT CONTROL CHANGE
+
+
+   SYSE                      Langford                 505
+                                                      505
+                                                      506
+                                                      506
+                                                      506
+                                                      506
+                                                      506
+                                                      595
+                                                      PROFESSOR CONTROL CHANGE
+
+
+                                                      DEPARTMENT CONTROL CHANGE
+
+
+   USP                       Dill                     414
+                                                      514
+                                                      PROFESSOR CONTROL CHANGE
+                                                      DEPARTMENT CONTROL CHANGE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             ==== END REPORT ====
